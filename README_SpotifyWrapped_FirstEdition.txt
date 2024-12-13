@@ -17,4 +17,4 @@ Download your Spotify data at this link:
 https://www.spotify.com/ca-en/account/privacy/
 
 My GitHub (will probably be uploading future versions in this repo):
-https://github.com/juliansimeonov/juliansimeonov/spotify_Wrapped_Project/jsSpotifyWrappedScript
+https://github.com/juliansimeonov/juliansimeonov/jsSpotifyWrappedScript
